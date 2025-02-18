@@ -1,4 +1,4 @@
-## Hi there 👋
+
 Olá, eu sou o Lucas Caetano Pivovar!
 
 - 🔭 Hoje trabalho com front-end
