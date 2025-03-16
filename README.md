@@ -1,7 +1,7 @@
 
 Olá, eu sou o Lucas Caetano Pivovar!
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como Dev Full Stack
 - 🌱 Estudando Vue.JS
 
 
