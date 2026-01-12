@@ -12,8 +12,8 @@
 ## 🔥 GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucasPivovar&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=LucasPivovar&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-deno.vercel.app/api?username=LucasPivovar&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=LucasPivovar&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -21,20 +21,20 @@
 ## 📊 Linguagens mais usadas
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPivovar&layout=compact&theme=radical&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-deno.vercel.app/api/top-langs/?username=LucasPivovar&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
 ## 🛠️ Tecnologias
 
-<div align="center" style="display: inline_block"><br>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<div align="center"><br>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ---
