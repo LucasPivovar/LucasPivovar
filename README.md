@@ -1,59 +1,66 @@
-# 👋 Olá, eu sou o Lucas Caetano Pivovar!
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-🚀 **Desenvolvedor Full Stack**  
-💻 Criando aplicações modernas, APIs eficientes e interfaces escaláveis.
+<h3 align="center">Eu sou o Lucas Caetano Pivovar 🚀</h3>
 
----
+<p align="center">
+Desenvolvedor Full Stack • APIs modernas • Interfaces escaláveis
+</p>
 
-## 🔥 GitHub Activity
-
-<div align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=LucasPivovar&show_icons=true&theme=radical&hide_border=true"
-  />
-  <img
-    width="48%"
-    src="https://streak-stats.demolab.com?user=LucasPivovar&theme=radical&hide_border=true"
-  />
-</div>
-
----
-
-## 📊 Linguagens mais usadas
+###
 
 <div align="center">
-  <img
-    width="50%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPivovar&layout=compact&theme=radical&hide_border=true"
-  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node logo" />
 </div>
 
----
-
-## 🛠️ Tecnologias
-
-<div align="center"><br>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
----
-
-## 🌐 Contato
+###
 
 <div align="center">
-  <a href="mailto:lucascaetano956@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/lucas-pivovar-a25b71337/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:lucascaetano956@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=LucasPivovar&theme=dracula&hide_border=false"
+    height="150"
+    alt="streak graph"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=LucasPivovar&theme=dracula&row=1&column=6"
+    height="150"
+    alt="trophy graph"
+  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img
+    alt="snake contribution graph"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
