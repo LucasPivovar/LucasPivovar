@@ -3,17 +3,19 @@
 🚀 **Desenvolvedor Full Stack**  
 💻 Criando aplicações modernas, APIs eficientes e interfaces escaláveis.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasPivovar&label=Profile%20Views&color=red&style=flat" />
-</p>
-
 ---
 
 ## 🔥 GitHub Activity
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-deno.vercel.app/api?username=LucasPivovar&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=LucasPivovar&theme=radical&hide_border=true" />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=LucasPivovar&show_icons=true&theme=radical&hide_border=true"
+  />
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com?user=LucasPivovar&theme=radical&hide_border=true"
+  />
 </div>
 
 ---
@@ -21,7 +23,10 @@
 ## 📊 Linguagens mais usadas
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats-deno.vercel.app/api/top-langs/?username=LucasPivovar&layout=compact&theme=radical&hide_border=true" />
+  <img
+    width="50%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPivovar&layout=compact&theme=radical&hide_border=true"
+  />
 </div>
 
 ---
