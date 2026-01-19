@@ -1,67 +1,41 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-<h3 align="center">Eu sou o Lucas Caetano Pivovar 🚀</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+nome+é+LucasPivovar;Tenho+17+anos;Sou+de+Brasil;Desenvolvedor+Full+Stack;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+[![Lucas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasPivovar&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/LucasPivovar/github-readme-activity-graph)
 
 <p align="center">
-Desenvolvedor Full Stack • APIs modernas • Interfaces escaláveis
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasPivovar&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node logo" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasPivovar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="LucasPivovar github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPivovar&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-pivovar-a25b71337/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:lucascaetano956@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+<div align="center"> 
+<a href="https://instagram.com/SEU_USER" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/SEU_CANAL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="mailto:SEU_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-###
+### 🛠️ Principais Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
+
+### 📚 Estudando no momento:
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=LucasPivovar&theme=dracula&hide_border=false"
-    height="150"
-    alt="streak graph"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=LucasPivovar&theme=dracula&row=1&column=6"
-    height="150"
-    alt="trophy graph"
-  />
+<br><p align="center"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasPivovar}/count.svg" /></p> 
+<br>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img
-    alt="snake contribution graph"
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-⭐ *Sempre evoluindo, sempre codando.*
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
