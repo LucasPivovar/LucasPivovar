@@ -24,25 +24,24 @@
 
 ## 📊 GitHub Stats & Trophies
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-
-  <div style="width: 49%;">
-    <a href="https://github.com/LucasPivovar">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/LucasPivovar">
+        <img 
+          width="100%"
+          src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasPivovar&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" 
+        />
+      </a>
+    </td>
+    <td width="50%" align="center">
       <img 
         width="100%"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasPivovar&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" 
+        src="https://streak-stats.demolab.com/?user=LucasPivovar&theme=nightowl&hide_border=true&cache_seconds=86400" 
       />
-    </a>
-  </div>
-
-  <div style="width: 49%;">
-    <img 
-      width="100%"
-      src="https://streak-stats.demolab.com/?user=LucasPivovar&theme=nightowl&hide_border=true&cache_seconds=86400" 
-    />
-  </div>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
