@@ -1,5 +1,5 @@
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lucas%20Caetano%20Pivovar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Lucas%20Caetano%20Pivovar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descSize=18&descAlignY=55&textBg=false" 
   width="100%" 
 />
 
@@ -30,7 +30,7 @@
       <a href="https://github.com/LucasPivovar">
         <img 
           width="100%"
-          src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasPivovar&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" 
+          src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasPivovar&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10&hide_border=true" 
         />
       </a>
     </td>
@@ -91,7 +91,7 @@
   <a href="https://github.com/LucasPivovar">
     <img 
       height="180em" 
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasPivovar&langs_count=8&layout=compact&theme=nightowl&border_radius=10" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasPivovar&langs_count=8&layout=compact&theme=nightowl&border_radius=10&hide_border=true" 
     />
   </a>
 </p>
